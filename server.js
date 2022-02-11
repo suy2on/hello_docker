@@ -21,8 +21,5 @@ app.get('/', (req, res) => {
         })
 })
 
-// app.get('/', (req,res) => {
-//     res.send("volunm테스트!!! ")
-// });
 
 app.listen(8080);
